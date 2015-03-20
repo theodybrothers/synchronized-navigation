@@ -1,0 +1,15 @@
+{
+  "name": "synchronized-navigation",
+  "version": "0.1.0",
+  "description": "Synchronized navigation of multiple browsers to a single URL using Socket.IO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Ody",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.0",
+		"socket.io": "^1.3.5"
+	}
+}
