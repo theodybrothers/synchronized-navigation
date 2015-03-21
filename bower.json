@@ -1,0 +1,7 @@
+{
+  "name": "synchronized-navigation",
+  "private": true,
+  "dependencies": {
+    "socket.io-client": "~1.3.5"
+  }
+}
