@@ -1,9 +1,8 @@
 (function () {
 	'use strict';
 	
+	var messages = document.getElementById('messages');
 	var addMessage = function (message) {
-		
-		var messages = document.getElementById('messages');
 
 		messages.innerHTML = messages.innerHTML + message + '<br />';
 	};

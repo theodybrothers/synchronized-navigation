@@ -3,10 +3,10 @@
 
 	var socket = io.connect(location.host);
 	
+	var message = document.getElementById('message');
 	document.getElementById('message-button').addEventListener('click', function () {
 
-		var message = document.getElementById('message').value;
-		socket.emit('send message', { message: message });
+		socket.emit('send message', { message: message.value });
 	});
 	
 	document.getElementById('navigate-button').addEventListener('click', function () {
