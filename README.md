@@ -1,6 +1,6 @@
 # synchronized-navigation
 
-##[How Do I Simultaneously Navigate Multiple Browsers? ](http://blog.theodybrothers.com/2015/03/how-do-i-simultaneously-navigate.html)
+## [How Do I Simultaneously Navigate Multiple Browsers? ](http://blog.theodybrothers.com/2015/03/how-do-i-simultaneously-navigate.html)
 
 #### Setup Instructions
 1. `npm install`
